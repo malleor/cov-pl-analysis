@@ -1,2 +1,5 @@
 jupyter
 gspread
+google-auth
+pandas
+seaborn
